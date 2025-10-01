@@ -1,7 +1,18 @@
-import React from 'react';
+import React, { useState } from 'react';
 import userImg from "../../assets/Group.png"
 import flagImg from "../../assets/flag.png"
-const PlayerCard = ({player}) => {
+const PlayerCard = ({player,setAvailableBalance,availableBalance}) => {
+   
+    const handleSelected = (playerData)=>{
+         const playerPrice = parseInt(playerData.price.split(",").join(""))
+         if(availableBalance<playerPrice){
+            alert ("Not enough coins!!")
+            return
+         }
+        setIsSelected(true),
+        setAvailableBalance(availableBalance-playerPrice)
+    }
+    const [isSelected,setIsSelected]=useState(false);
     return (
         <div className="card bg-base-100 shadow-sm p-4">
   <figure>
@@ -36,8 +47,9 @@ const PlayerCard = ({player}) => {
         </div>
 
         <div className='flex justify-between mt-2'>
-            <p>price: {player.price}</p>
-            <button className='btn'>Choose Player</button>
+            <p>price: ${player.price}</p>
+            <button disabled={isSelected} onClick={()=>{ handleSelected(player)}}
+             className='btn'>{isSelected===true?"Selected":"Choose Player"}</button>
         </div>
 
    

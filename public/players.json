@@ -7,7 +7,7 @@
     "rating": 9.5,
     "batting_style": "Left-hand bat",
     "bowling_style": "Slow left-arm orthodox",
-    "price": "$150,000"
+    "price": "150,000"
   },
   {
     "player_image": "https://i.ibb.co.com/rGs7z2bx/52c775579b5d418c88a1176d2e0a0d01.png",
@@ -17,7 +17,7 @@
     "rating": 8.7,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$120,000"
+    "price": "120,000"
   },
   {
     "player_image": "https://i.ibb.co.com/9H2Q8wnZ/images.jpg",
@@ -27,7 +27,7 @@
     "rating": 8.9,
     "batting_style": "Left-hand bat",
     "bowling_style": "Left-arm fast-medium",
-    "price": "$140,000"
+    "price": "140,000"
   },
   {
     "player_image": "https://i.ibb.co.com/S4PRB1nf/download.jpg",
@@ -37,7 +37,7 @@
     "rating": 9.3,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast",
-    "price": "$200,000"
+    "price": "200,000"
   },
   {
     "player_image": "https://i.ibb.co.com/jv7kk44v/download-1.jpg",
@@ -47,7 +47,7 @@
     "rating": 8.4,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$100,000"
+    "price": "100,000"
   },
   {
     "player_image": "https://i.ibb.co.com/hx4Md3mL/download-2.jpg",
@@ -57,7 +57,7 @@
     "rating": 8.5,
     "batting_style": "Right-hand bat",
     "bowling_style": "Wicketkeeper",
-    "price": "$110,000"
+    "price": "110,000"
   },
   {
     "player_image": "https://i.ibb.co.com/Jwrp4hgj/download-3.jpg",
@@ -67,7 +67,7 @@
     "rating": 9.4,
     "batting_style": "Right-hand bat",
     "bowling_style": "Legbreak googly",
-    "price": "$180,000"
+    "price": "180,000"
   },
   {
     "player_image": "https://i.ibb.co.com/pHWKH13/download-4.jpg",
@@ -77,7 +77,7 @@
     "rating": 9.2,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$190,000"
+    "price": "190,000"
   },
   {
     "player_image": "https://i.ibb.co.com/PvjBppVT/download-5.jpg",
@@ -87,7 +87,7 @@
     "rating": 8.8,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$160,000"
+    "price": "160,000"
   },
   {
     "player_image": "https://i.ibb.co.com/tM52WzrQ/63875.webp",
@@ -97,7 +97,7 @@
     "rating": 7.9,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$65,000"
+    "price": "65,000"
   },
   {
     "player_image": "https://i.ibb.co.com/673cYDsr/download-6.jpg",
@@ -107,7 +107,7 @@
     "rating": 9.0,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm medium-fast",
-    "price": "$170,000"
+    "price": "170,000"
   },
   {
     "player_image": "https://i.ibb.co.com/W4yjKzW0/download-7.jpg",
@@ -117,6 +117,6 @@
     "rating": 8.1,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$85,000"
+    "price": "85,000"
   }
 ]
